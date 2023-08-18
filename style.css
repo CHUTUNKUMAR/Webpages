@@ -29,7 +29,7 @@ body{
 }
 .navbar-nav li a{
 	color: #fff !important;
-	font-weight: 600;
+	font-weight: bold;
 	float: right;
 	text-align: center;
 }
